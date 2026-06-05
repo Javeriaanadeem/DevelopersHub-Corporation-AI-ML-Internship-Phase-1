@@ -111,7 +111,7 @@ Build a binary classification model to predict the presence or absence of heart 
 
 ## Task 4 — General Health Query Chatbot
 
-### 🎯 Objective
+### Objective
 Build a conversational health chatbot capable of answering general medical queries using a large language model, with a built-in safety filter to handle sensitive or crisis-related inputs responsibly.
 
 ### Dataset Used
