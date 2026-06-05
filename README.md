@@ -17,12 +17,12 @@ This repository contains all the work completed during the AI/ML internship at D
 ## Repository Structure
 
 ```
+├── README.md
+├── heart.csv          # Dataset used in Task 3
 ├── task1.ipynb        # Exploratory Data Analysis on Iris Dataset
 ├── task2.ipynb        # Stock Price Prediction using Linear Regression
 ├── task3.ipynb        # Heart Disease Classification using Logistic Regression
 ├── task4.ipynb        # General Health Query Chatbot using Mistral-7B
-├── heart.csv          # Dataset used in Task 3
-└── README.md
 ```
 
 ---
