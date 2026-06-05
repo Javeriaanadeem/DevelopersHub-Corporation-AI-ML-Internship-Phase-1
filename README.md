@@ -151,23 +151,18 @@ No dataset — the chatbot uses a **pre-trained LLM** via Hugging Face Inference
 ---
 
 ## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/dhc-internship-tasks.git
-   cd dhc-internship-tasks
    ```
 
-2. Install dependencies:
+1. Install dependencies:
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn yfinance requests
    ```
 
-3. For **Task 3**, ensure `heart.csv` is in the same directory as `task3.ipynb`.
+2. For **Task 3**, ensure `heart.csv` is in the same directory as `task3.ipynb`.
 
-4. For **Task 4**, replace `YOUR_HF_TOKEN_HERE` in `task4.ipynb` with your Hugging Face API token from [huggingface.co/settings/tokens](https://huggingface.co/settings/tokens).
+3. For **Task 4**, replace `YOUR_HF_TOKEN_HERE` in `task4.ipynb` with your Hugging Face API token from [huggingface.co/settings/tokens](https://huggingface.co/settings/tokens).
 
-5. Open any notebook in Jupyter:
+4. Open any notebook in Jupyter:
    ```bash
    jupyter notebook
    ```
